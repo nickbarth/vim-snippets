@@ -1,5 +1,5 @@
-UltiSnip Snippets Personal Fork 
-============================
+Custom UltiSnip Snippets 
+========================
 
 This repository contains snippets files for various programming languages.
 
